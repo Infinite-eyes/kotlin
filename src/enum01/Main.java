@@ -22,10 +22,27 @@ public class Main {
 
     public static void main(String args[]) {
 
-        JavaEnumDemo enumKt = JavaEnumDemo.ERROR_SERVER;
-        System.out.println(enumKt);
-        System.out.println(enumKt.code);
+//        JavaEnumDemo enumKt = JavaEnumDemo.ERROR_SERVER;
+//        System.out.println(enumKt);
+//        System.out.println(enumKt.code);
 
+
+        String s = Color.getValue(0).getDesc();
+        System.out.println("获取的值为:" + s);
+
+
+        Color color = Color.valueOf("GREEN");
+        System.out.println(color.getDesc());
+
+        Color.values().toString();
+
+
+        Color s2 = Color.getValue(0);
+        System.out.println("获取的值为:" + s2.toString());
+
+//        for Color.
+
+        System.out.println( Color.values().length + "");
 
     }
 

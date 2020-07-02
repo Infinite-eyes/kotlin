@@ -9,6 +9,8 @@ enum class KotlinEnumDemo(val value: Int,  val msg: String) {
 }
 fun main(args: Array<String>) {
     val enumKt = KotlinEnumDemo.ERROR_SERVER
+//    KotlinEnumDemo.valueOf()
+//    println()
 //    val enumJava = JavaEnumDemo.ERROR_SERVER
     println("kotlin： $enumKt")
     println("kotlin： ${enumKt.msg}")

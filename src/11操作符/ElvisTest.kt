@@ -4,7 +4,7 @@ class ElvisTest() {
 
     var a: String = "hello"  // non-null
 
-    var b: String? = "world"
+//    var b: String? = "world"
 
 //    val bLength: Int ? = b?.length  //nullabale
 
@@ -12,7 +12,7 @@ class ElvisTest() {
 
 //    val bLength = b?.length?: -1  //elvis操作符 ?: 返回右侧
 
-    val bLength = b!!.length  // !!  NPE 异常：
+//    val bLength = b!!.length  // !!  NPE 异常：
 
 
     val aInt: Int? = a as? Int  // as? 不是类型null

@@ -1,4 +1,4 @@
-package extend;
+package extension;
 
 public class Main {
 

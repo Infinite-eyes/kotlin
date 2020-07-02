@@ -1,4 +1,4 @@
-package extend
+package extension
 
 fun lastChar3(str: String): Char = str.get(str.length - 1)
 //扩展函数
@@ -9,7 +9,7 @@ fun String.lastChar2(): Char = get(length - 1)
 val c = "Kotlin".lastChar1()
 
 
-//扩展属性 区别 扩展方法 没有()   有  get() set()
+//扩展属性 区别 扩展方法 没有()   有  get() set() val没有set  var有set
 
 //扩展属性
 val String.lastChar: Char get() = get(length - 1)
