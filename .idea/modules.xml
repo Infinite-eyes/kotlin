@@ -6,6 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines.coroutines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines.coroutines.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines.coroutines.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines.coroutines.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/kotlin-demo.iml" filepath="$PROJECT_DIR$/kotlin-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin_basics.kotlin_basics.test.iml" />
     </modules>
   </component>
 </project>
