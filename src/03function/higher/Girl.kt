@@ -17,4 +17,27 @@ var list = listOf<Girl>(
 
 )
 
+//v1
+//fun List<Girl>.ageLessThan(age: Int)
+//v2
+infix fun List<Girl>.ageLessThan(age: Int) {
 
+    filter {
+        it.age < age
+    }.forEach(::println)
+}
+
+
+infix fun List<Girl>.ageGreaterThan(age: Int) {
+    filter {
+        it.age > age
+    }.forEach(::println)
+}
+
+
+infix fun List<Girl>.from(address: String) {
+    filter {
+        it.address == address
+    }.forEach(::println)
+
+}
