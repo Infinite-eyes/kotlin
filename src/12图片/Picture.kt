@@ -4,6 +4,7 @@ import java.awt.image.BufferedImage
 import java.io.File
 import javax.imageio.ImageIO
 
+//创建图片
 
 fun main(args: Array<String>) {
 
