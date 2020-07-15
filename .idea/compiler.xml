@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="coroutines.coroutines.main" target="1.8" />
       <module name="coroutines.coroutines.test" target="1.8" />
+      <module name="java_gradle.java_gradle.main" target="1.8" />
+      <module name="java_gradle.java_gradle.test" target="1.8" />
       <module name="kotlin_basics.kotlin_basics.main" target="1.8" />
       <module name="kotlin_basics.kotlin_basics.test" target="1.8" />
     </bytecodeTargetLevel>
