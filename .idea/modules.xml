@@ -8,9 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.test.iml" />
     </modules>
   </component>
 </project>

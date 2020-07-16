@@ -6,7 +6,7 @@
     <content url="file://$MODULE_DIR$/../../gradle/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="gradle.main" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="gradle.main" />
 </module>

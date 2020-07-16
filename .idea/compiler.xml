@@ -6,10 +6,14 @@
       <module name="com.kotlin.coroutines.test" target="1.8" />
       <module name="com.kotlin.gradle.main" target="1.8" />
       <module name="com.kotlin.gradle.test" target="1.8" />
+      <module name="com.kotlin.gradlekts.main" target="1.8" />
+      <module name="com.kotlin.gradlekts.test" target="1.8" />
       <module name="com.kotlin.main.main" target="1.8" />
       <module name="com.kotlin.main.test" target="1.8" />
       <module name="gradle.main" target="1.8" />
       <module name="gradle.test" target="1.8" />
+      <module name="gradlekts.main" target="1.8" />
+      <module name="gradlekts.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
