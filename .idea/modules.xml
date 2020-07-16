@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.demo.gradle.iml" filepath="$PROJECT_DIR$/.idea/modules/com.demo.gradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.demo.gradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.demo.gradle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.demo.gradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.demo.gradle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines.coroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines.coroutines.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines.coroutines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines.coroutines.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/coroutines.coroutines.test.iml" filepath="$PROJECT_DIR$/.idea/modules/coroutines.coroutines.test.iml" />
