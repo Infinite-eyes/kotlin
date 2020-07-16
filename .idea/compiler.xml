@@ -6,11 +6,15 @@
       <module name="com.demo.gradle.test" target="1.8" />
       <module name="coroutines.coroutines.main" target="1.8" />
       <module name="coroutines.coroutines.test" target="1.8" />
+      <module name="gradle.main" target="1.8" />
+      <module name="gradle.test" target="1.8" />
       <module name="java_gradle.java_gradle.main" target="1.8" />
       <module name="java_gradle.java_gradle.test" target="1.8" />
       <module name="kotlin-demo.coroutines.coroutines.test" target="1.8" />
       <module name="kotlin_basics.kotlin_basics.main" target="1.8" />
       <module name="kotlin_basics.kotlin_basics.test" target="1.8" />
+      <module name="test1_main" target="1.8" />
+      <module name="test1_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
