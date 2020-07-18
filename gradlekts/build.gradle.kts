@@ -71,12 +71,15 @@ task("getsrcname", {
 plugins {
     application
     kotlin("jvm") version "1.3.11"
+
+//    java
+    war
 }
-application {
-    //gradle 视图对应类
-    mainClassName = "Test"
-//    mainClassName = "Main"
-}
+//application {
+//    //gradle 视图对应类
+//    mainClassName = "Test"
+////    mainClassName = "Main"
+//}
 
 
 dependencies {
