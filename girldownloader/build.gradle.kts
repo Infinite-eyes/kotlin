@@ -18,11 +18,18 @@ dependencies {
 //    compile group: 'commons-httpclient', name: 'commons-httpclient', version: '3.1'
     compile("commons-httpclient", "commons-httpclient", "3.1")
 
+    testCompile("junit","junit","4.8.1")
+
 }
 repositories {
     mavenCentral()
     jcenter()
 }
+
+
+//TDD 测试驱动开发
+
+
 //
 //val compileKotlin: KotlinCompile by tasks
 //compileKotlin.kotlinOptions {
