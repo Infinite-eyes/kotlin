@@ -75,11 +75,11 @@ plugins {
 //    java
     war
 }
-//application {
-//    //gradle 视图对应类
-//    mainClassName = "Test"
-////    mainClassName = "Main"
-//}
+application {
+    //gradle 视图对应类
+    mainClassName = "Test"
+//    mainClassName = "Main"
+}
 
 
 dependencies {

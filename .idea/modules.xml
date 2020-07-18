@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/girldownloader.iml" filepath="$PROJECT_DIR$/.idea/modules/girldownloader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/girldownloader.main.iml" filepath="$PROJECT_DIR$/.idea/modules/girldownloader.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/girldownloader.test.iml" filepath="$PROJECT_DIR$/.idea/modules/girldownloader.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradlekts.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gradlekts.test.iml" />
