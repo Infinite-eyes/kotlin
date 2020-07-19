@@ -83,6 +83,15 @@ task("jartest", Jar::class) {
     into("a.jar")
 }
 
+//运行class 文件
+task("testclassfile",{
+//
+//    javaexec{
+//        main = "className"
+//        //当前工程目录
+//        classpath(".")
+//    }
+})
 
 
 
