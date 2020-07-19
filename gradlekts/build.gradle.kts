@@ -1,3 +1,5 @@
+//https://docs.gradle.org/4.10.2/dsl/
+
 //cd gradlekts
 //./gradlew helloworld
 //task("helloworld", {
@@ -61,6 +63,29 @@ task("getsrcname", {
 
 
 })
+
+//task("mydelete", Delete::class, {
+//    setDelete("src/main/temp")
+//})
+//task("deletetest", Delete::class) {
+//    setDelete("src/main/temp")
+//}
+
+
+task("copytest", Copy::class) {
+    from("src")
+    into("haha")
+
+}
+
+task("jartest", Jar::class) {
+    from("src")
+    into("a.jar")
+}
+
+
+
+
 
 
 
