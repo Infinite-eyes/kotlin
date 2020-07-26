@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.coroutines.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.cryption.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.kotlin.main.test.iml" />

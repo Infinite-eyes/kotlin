@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="com.kotlin.coroutines.main" target="1.8" />
       <module name="com.kotlin.coroutines.test" target="1.8" />
+      <module name="com.kotlin.cryption.main" target="1.8" />
+      <module name="com.kotlin.cryption.test" target="1.8" />
       <module name="com.kotlin.girldownloader.main" target="1.8" />
       <module name="com.kotlin.girldownloader.test" target="1.8" />
       <module name="com.kotlin.gradle.main" target="1.8" />
