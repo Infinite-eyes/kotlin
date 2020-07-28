@@ -5,8 +5,11 @@ fun main(args: Array<String>) {
     val value: Int = c.toInt()
     println(value) // 97
 
+    val binary = Integer.toBinaryString(value)
+    println(binary)
 
     val str = "i love you"
+
 
     //v1
     val stringBuilder = StringBuilder()
