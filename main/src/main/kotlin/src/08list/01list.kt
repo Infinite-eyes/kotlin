@@ -9,6 +9,18 @@ fun main(args: Array<String>) {
         println("${i} ${e}")
     }
 
+
+    var tbList: MutableList<String> = ArrayList()
+    var tb = "A"
+    tbList.add(tb)
+    tb = "B"
+    tbList.add(tb)
+
+    for (d in tbList) {
+        println("My name is $d , and my age is $d")
+    }
+
+
 }
 
 
