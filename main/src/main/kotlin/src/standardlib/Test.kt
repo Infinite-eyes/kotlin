@@ -60,14 +60,22 @@ fun testRun() {
     }.let { println(it) }
 }
 
-
-fun main(args: Array<String>) {
-//    testWith()
-    testRun()
+//调用某对象的also函数，则该对象为函数的参数。在函数块内可以通过 it 指代该对象。返回值为该对象自己。
+val a = "aaaa".also {
+    println(it)
 }
 
 
 
+
+
+
+
+fun main(args: Array<String>) {
+//    testWith()
+    testRun()
+    println(a)
+}
 
 
 //
