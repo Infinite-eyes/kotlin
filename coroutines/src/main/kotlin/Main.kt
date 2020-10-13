@@ -1,4 +1,3 @@
-import kotlinx.coroutines.*
 import java.lang.Runnable
 
 
@@ -68,64 +67,64 @@ fun main(args: Array<String>) {
 
 //    v7
 
-    GlobalScope.launch {
-        print("1111")
-        val result1 = GlobalScope.async {
-           getResult1()
-        }
-        val result2 = GlobalScope.async {
-            getResult2()
-        }
-        val result = result1.await() + result2.await()
-        print("2222")
-        print(result)
-        print("33333")
-    }
-
-
+//    GlobalScope.launch {
+//        print("1111")
+//        val result1 = GlobalScope.async {
+//           getResult1()
+//        }
+//        val result2 = GlobalScope.async {
+//            getResult2()
+//        }
+//        val result = result1.await() + result2.await()
+//        print("2222")
+//        print(result)
+//        print("33333")
+//    }
+//
+//
 }
-
-private suspend fun getResult1(): Int {
-    delay(3000)
-    return 1
-}
-
-private suspend fun getResult2(): Int {
-    delay(4000)
-    return 2
-}
-
-
-private fun setUserInfo(userInfo: String) {
-    print(userInfo)
-}
-
-private suspend fun getToken(): String {
-    delay(2000)
-    return "token"
-}
-
-private suspend fun getUserInfo(token: String): String {
-    delay(2000)
-    return "$token - userInfo"
-}
-
-
-fun function(): Int {
-    return 666
-}
-
-
-private fun test() = runBlocking {
-    repeat(8) {
-        delay(1000)
-    }
-}
-
-
-class MyThread constructor(callback: String) : Runnable {
-
-    override fun run() {
-//       callback
-    }
-}
+//
+//private suspend fun getResult1(): Int {
+//    delay(3000)
+//    return 1
+//}
+//
+//private suspend fun getResult2(): Int {
+//    delay(4000)
+//    return 2
+//}
+//
+//
+//private fun setUserInfo(userInfo: String) {
+//    print(userInfo)
+//}
+//
+//private suspend fun getToken(): String {
+//    delay(2000)
+//    return "token"
+//}
+//
+//private suspend fun getUserInfo(token: String): String {
+//    delay(2000)
+//    return "$token - userInfo"
+//}
+//
+//
+//fun function(): Int {
+//    return 666
+//}
+//
+//
+//private fun test() = runBlocking {
+//    repeat(8) {
+//        delay(1000)
+//    }
+//}
+//
+//
+//class MyThread constructor(callback: String) : Runnable {
+//
+//    override fun run() {
+////       callback
+//    }
+//}
